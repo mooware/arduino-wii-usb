@@ -12,4 +12,4 @@ Licensed under the MIT license. See the LICENSE file for full text.
 
 ## References
 
-Details about the controller port and protocol taken from  http://wiibrew.org/wiki/Wiimote/Extension_Controllers]
+Details about the controller port and protocol taken from http://wiibrew.org/wiki/Wiimote/Extension_Controllers
